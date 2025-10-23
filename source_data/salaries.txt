@@ -1,0 +1,11 @@
+Alex Korp,3000
+Nikita Borisenko,2000
+Sitarama Raju,1000
+John Doe,1500
+Jane Naverick,1750
+Michael Barbara,2444
+Colin Malboro,2000
+Richard Cheese,2000
+Wednesday Addams,799
+Fester Addams,nothing
+Larch Addams,twenty dollars

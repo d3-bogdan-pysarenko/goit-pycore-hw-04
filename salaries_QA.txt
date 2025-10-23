@@ -1,0 +1,6 @@
+Alex Korp,1000
+Nikita Borisenko,4000
+Sitarama Raju,1800
+John Doe,1550
+Jane Naverick,950
+Michael Barbara,3320
