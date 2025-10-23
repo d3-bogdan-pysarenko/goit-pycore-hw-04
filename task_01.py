@@ -1,6 +1,4 @@
-from pathlib import Path
-
-def total_salary(path):
+def total_salary(path:str):
     try:
         with open (path, "r", encoding="utf-8") as f:
             all_data = f.read().splitlines()
